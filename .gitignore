@@ -1,0 +1,7 @@
+# Editor and system temporary files
+*.swp
+*~
+.DS_Store
+
+# Local environment files
+.env
