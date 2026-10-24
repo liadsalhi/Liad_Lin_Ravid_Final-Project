@@ -2,7 +2,7 @@
 
 ## Who we are
 Team of three students in the Dev Tools course (Summer 2026):
-- **Liad salchi** - team leader
+- **Liad salhi** - team leader
 - **Lin sabag**
 - **Ravid amar**
 
